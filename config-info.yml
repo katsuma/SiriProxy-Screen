@@ -1,0 +1,2 @@
+- name: 'Screen'
+  git: 'git@github.com:katsuma/SiriProxy-Screen.git'
